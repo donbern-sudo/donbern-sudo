@@ -19,8 +19,8 @@
   - [C / C#]()
 
 <h2> 📜 Certifications:</h2>
--<b> </b>
-
+<b><a href="https://github.com/donbern-sudo/donbern-sudo/blob/8221e9247d281aad04a9757caeee687a97d53e19/CompTIA%20Security%2B%20ce%20certificate.pdf">- CompTIA Security Plus (2024) </a> </b>
+<br><a href="" SUSE Kubernetes Administration KUB201 (2023)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
