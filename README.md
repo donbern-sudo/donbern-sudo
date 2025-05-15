@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Technical Projects:</h2>
 
-- <b> IT Helpdesk Simulation (Python)(HTML) </b>
+- <b> Personal Coding Projects </b>
     - <b><a href="https://github.com/donbern-sudo?tab=repositories"> Program Repository </a></b>
     - <b><a href="https://ithelpdeskproject.onrender.com"> Deployed Website : "Cold Start Server" </a></b>
     
