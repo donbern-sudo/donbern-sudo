@@ -5,7 +5,7 @@
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b> Personal Coding Projects </b>
-    - <b><a href="https://github.com/donbern-sudo?tab=repositories"> Program Repository </a></b>
+    - <b><a href="https://github.com/donbern-sudo?tab=repositories"> Program Repositories </a></b>
     - <b><a href="https://ithelpdeskproject.onrender.com"> Deployed Website : "Cold Start Server" </a></b>
     
 <h2> 📜 Certifications:</h2>
